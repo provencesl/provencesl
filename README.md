@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 🧐About me
 
-I am a CS undergrad pursuing my Bachelor's degree from University of Petroleum & Energy Studies. I am a Unity Game Developer. I have developed both 2D and 3D platform games in Unity.
+I am a Unity Game Developer. I have developed VR Game in Unity.
 
 ## ⚡Skills :desktop_computer: :keyboard:
 
